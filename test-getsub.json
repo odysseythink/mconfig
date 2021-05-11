@@ -1,0 +1,49 @@
+{
+  "A": {
+    "AA":{
+      "AAA":{
+        "AAAA-int":123,
+        "AAAA-string":"hello",
+        "AAAA-bool":true,
+        "AAAA-float":123,
+        "AAAA-array":[1,2,3,4,5,6],
+        "AAAA" :{
+          "AAAAA-int":123,
+          "AAAAA-string":"hello",
+          "AAAAA-bool":true,
+          "AAAAA-float":123,
+          "AAAAA-array":[1,2,3,4,5,6],
+          "AAAAA":{
+            "AAAAAA-int":123,
+            "AAAAAA-string":"hello",
+            "AAAAAA-bool":true,
+            "AAAAAA-float":123,
+            "AAAAAA-array":[1,2,3,4,5,6],
+            "AAAAAA" :{
+              "AAAAAAA-int":123,
+              "AAAAAAA-string":"hello",
+              "AAAAAAA-bool":true,
+              "AAAAAAA-float":123,
+              "AAAAAAA-array":[1,2,3,4,5,6]
+            }
+          }
+        }
+      },
+      "AAA-int":123,
+      "AAA-string":"hello",
+      "AAA-bool":true,
+      "AAA-float":123,
+      "AAA-array":[1,2,3,4,5,6]
+    },
+    "AA-int":123,
+    "AA-string":"hello",
+    "AA-bool":true,
+    "AA-float":123,
+    "AA-array":[1,2,3,4,5,6]    
+  },
+  "A-int":123,
+  "A-string":"hello",
+  "A-bool":true,
+  "A-float":123,
+  "A-array":[1,2,3,4,5,6]  
+}
